@@ -1,7 +1,7 @@
 ### Hi there I'm Andrea 👋
 - 🔭 I’m currently working at Valkimia on some Projects using Angular.
 - 👯 I’m looking to collaborate on new projects.
-- 🌱 I'm a passionate in learning new things.
+- 🌱 I'm Passionate About Learning
 - 📫 How to reach me: acastellanoskatsini@gmail.com
 - ⚡ Linkedin: www.linkedin.com/in/andreacastellanosk/
 <!--
