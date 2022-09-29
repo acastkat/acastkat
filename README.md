@@ -1,7 +1,8 @@
 ### Hi there I'm Andrea, I'm a Systems Analist 👋
-- 🔭 I’m currently working as a FullStack Developer at Valkimia on some Projects using Angular.
+- 🔭 I’m currently working as a UX/UI Designer at Accenture.
+      In previous jobs I've worked as a UX/UI Designer and as FullStack Developer using Angular.
 - 👯 I’m looking to collaborate on new projects.
-- 🌱 I'm Passionate About Learning
+- 🌱 I'm Passionate about being in constant learning
 - 📫 How to reach me: acastellanoskatsini@gmail.com
 - ⚡ Linkedin: www.linkedin.com/in/andreacastellanosk/
 <!--
@@ -9,8 +10,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at Valkimia on some Projects using Angular.
-- 🌱 I’m currently learning ...
+ 🔭 I’m currently working as a UX/UI Designer at Accenture.
+      In previous jobs I've worked as a UX/UI Designer and as FullStack Developer using Angular.
+- 🌱 I’m i enjoy being in constant learning ...
 - 👯 I’m looking to collaborate on new projects.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
