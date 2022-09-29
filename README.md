@@ -1,4 +1,4 @@
-### Hi there I'm Andrea, I'm a Systems Analist 👋
+### Hi there I'm Andrea, I'm a UX/UI Designer and Systems Analist 👋
 - 🔭 I’m currently working as a UX/UI Designer at Accenture.
       In previous jobs I've worked as a UX/UI Designer and as FullStack Developer using Angular.
 - 👯 I’m looking to collaborate on new projects.
