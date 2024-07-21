@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on new projects.
 - 🌱 I'm Passionate about being in constant learning
 - 📫 How to reach me: acastellanoskatsini@gmail.com
-- ⚡ Linkedin: www.linkedin.com/in/andreacastellanosk/
+- ⚡ Linkedin: www.linkedin.com/in/acastkat/
 <!--
 **andreacastkatsini/andreacastkatsini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
