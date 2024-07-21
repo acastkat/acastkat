@@ -1,5 +1,5 @@
-### Hi there I'm Andrea, I'm a UX/UI Designer and System Analyst 👋
-- 🔭 I’m currently working as a UX/UI Designer at Accenture.
+### Hi there I'm Andrea, I'm a Product Designer with vast experience as a Sr. UX/UI Designer and Sr. System Analyst 👋
+- 🔭 I’m currently working as a Sr. UX/UI Designer at Accenture.
       In previous jobs I've worked as a UX/UI Designer and as FullStack Developer using Angular.
 - 👯 I’m looking to collaborate on new projects.
 - 🌱 I'm Passionate about being in constant learning
